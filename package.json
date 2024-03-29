@@ -4,7 +4,7 @@
   "description": "see here guys u are guy is improving day by day",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "main.js"
   },
   "author": "",
   "license": "ISC",
