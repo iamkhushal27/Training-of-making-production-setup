@@ -1,0 +1,18 @@
+{
+  "name": "production-setup",
+  "version": "1.0.0",
+  "description": "see here guys u are guy is improving day by day",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "mongoose": "^8.2.4",
+    "nodemon": "^3.1.0"
+  }
+}
