@@ -2,9 +2,9 @@
   "name": "production-setup",
   "version": "1.0.0",
   "description": "see here guys u are guy is improving day by day",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
-    "start": "main.js"
+    "start": "nodemon src/main.js"
   },
   "author": "",
   "license": "ISC",
